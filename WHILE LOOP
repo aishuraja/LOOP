@@ -1,0 +1,4 @@
+i=0
+  while student<6:
+    print(i)
+    student=student+1
